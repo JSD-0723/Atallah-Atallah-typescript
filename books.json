@@ -1,0 +1,7 @@
+[
+    { "name": "Water", "author": "Author 1", "isbn": "123456" },
+    { "name": "Avatar", "author": "Author 2", "isbn": "789101" },
+    { "name": "Earth", "author": "Author 3", "isbn": "891011" },
+    { "name": "Fire", "author": "Author 4", "isbn": "121314" },
+    { "name": "Air", "author": "Author 5", "isbn": "151617" }
+]
